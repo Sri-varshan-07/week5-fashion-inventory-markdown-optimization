@@ -1,0 +1,5 @@
+category,sku,retail_price,unit_cost,salvage_price,critical_fractile,expected_demand_units,optimal_order_quantity_Q,pre_commitment_overseas_60pct,agile_chase_buffer_40pct,expected_gross_margin_usd,sigma_units,safety_stock_units,reorder_point_units
+Linen Co-ords,LC-205,120.0,42.0,28.0,0.8478,4838,5178,2902,2276,372604.0,330,204,1414
+Oversized Blazers,OB-701,180.0,65.0,45.0,0.8519,7455,8061,4473,3588,845205.0,580,385,2249
+Retro Sportswear,RS-402,95.0,32.0,25.0,0.9,7867,8727,4720,4007,489601.0,670,446,1921
+Wide-Leg Trousers,WT-309,110.0,38.0,30.0,0.9,5842,6195,3505,2690,417800.0,275,235,1330

@@ -1,0 +1,5 @@
+category,full_retail_price,unit_cost,traditional_gross_profit,algorithmic_gross_profit,profit_lift_usd,profit_lift_pct,traditional_leftover_units,algorithmic_leftover_units,terminal_waste_reduction_pct
+Oversized Blazers,180.0,65.0,377689.39,401033.95,23344.559999999998,6.18,1326,1140,14.03
+Retro Sportswear,95.0,32.0,216423.55,232607.76,16184.210000000021,7.48,1204,982,18.44
+Linen Co-ords,120.0,42.0,261347.72,286369.56,25021.839999999997,9.57,1116,869,22.13
+Wide-Leg Trousers,110.0,38.0,243233.04,253672.14,10439.100000000006,4.29,1414,1253,11.39

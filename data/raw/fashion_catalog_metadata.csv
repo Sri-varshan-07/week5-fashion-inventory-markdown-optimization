@@ -1,0 +1,5 @@
+sku,category,silhouette,retail_price,unit_cost,salvage_price,overseas_lead_time_weeks,chase_lead_time_weeks,target_service_level,price_elasticity,holding_cost_per_week,season,cost_of_underage_Cu,cost_of_overage_Co,critical_fractile
+OB-701,Oversized Blazers,Structured Outerwear,180.0,65.0,45.0,26,4,0.85,-1.85,0.75,Fall/Winter Core,115.0,20.0,0.8518518518518519
+RS-402,Retro Sportswear,Athletic Windbreakers & Track,95.0,32.0,25.0,24,3,0.88,-2.2,0.4,Year-Round Viral,63.0,7.0,0.9
+LC-205,Linen Co-ords,Resort Two-Piece Sets,120.0,42.0,28.0,28,4,0.82,-2.45,0.5,Summer Vacation Drop,78.0,14.0,0.8478260869565217
+WT-309,Wide-Leg Trousers,High-Waist Tailored Pants,110.0,38.0,30.0,22,3,0.86,-1.6,0.45,Continuous Wardrobe Staple,72.0,8.0,0.9
